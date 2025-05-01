@@ -1,22 +1,19 @@
 # Halo👋<br>
 
-![Rizal Baihaqi](img/github-header-image.png)
-
-<br>Selamat datang di profil GitHub saya! Saya adalah mahasiswa di **Universitas Ivet Semarang**, dengan minat besar dalam dunia **pengembangan web** dan **pemrograman**.<br><br>
+![Rizal Baihaqi](img/github-header-image.png)<br><br>Selamat datang di profil GitHub saya! Saya adalah mahasiswa di **Universitas Ivet Semarang**, dengan minat besar dalam dunia **pengembangan web** dan **pemrograman**.<br><br><br><br>
 
 ## 🧑‍💻 Tentang Saya<br>
 
 - 🎓 Mahasiswa Universitas Ivet Semarang.<br>
 - 💻 Berpengalaman dalam pengembangan web dan backend.<br>
-- 🚀 Suka membangun proyek open-source dan terus belajar teknologi baru.<br
+- 🚀 Suka membangun proyek open-source dan terus belajar teknologi baru.<br>
 - 📚 Aktif mengeksplorasi dunia pemrograman dan pengembangan sistem.<br><br>
 
 ## 🔧 Teknologi yang Saya Kuasai<br>
 
 - 🖥️ **Bahasa Pemrograman**: HTML, CSS, JavaScript, Node.js, PHP.<br>
 - ⚙️ **Framework**: React, Express, Laravel.<br>
-- 🗄️ **Database**: MySQL, MongoDB.<br>
-  <br>Terima kasih sudah mampir ke profil saya! Jangan ragu untuk melihat repositori saya atau menghubungi saya untuk berkolaborasi dalam proyek teknologi. 🚀
+- 🗄️ **Database**: MySQL, MongoDB.<br> <br>Terima kasih sudah mampir ke profil saya! Jangan ragu untuk melihat repositori saya atau menghubungi saya untuk berkolaborasi dalam proyek teknologi. 🚀
 
 ## 🌐 Socials:
 
@@ -31,6 +28,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=arizalb&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=arizalb&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arizalb&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=arizalb&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
